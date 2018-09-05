@@ -1,0 +1,8 @@
+prefix=/home/ras/kthfsdv/install
+
+Name: broadcast
+Description: Description of broadcast
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ras/kthfsdv/install/lib 
+Requires: 
